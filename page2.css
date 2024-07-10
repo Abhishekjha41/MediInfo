@@ -1,0 +1,74 @@
+*{
+    margin: 0%;
+    /* padding: 0%; */
+}
+
+.nav1 {
+    display: flex;
+    height: 4.8%;
+    align-items: start;
+    width: 100%;
+    margin-top: 2px;
+    box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+    
+}
+p.navbar1{
+    margin-top: 0%;
+    margin-right: 15%;
+}
+a{
+    text-decoration: none;
+}
+a.navbar1{
+    margin-right: 5%;
+
+}
+a.navbar1:hover{
+    color: red;
+}
+
+#signup{
+    margin-right: 8px;
+    margin-left: 15%;
+}
+#login{
+    margin-right: 0%;
+}
+
+.nav2{
+    background-color: #F1F4F6;
+    height:8%;
+    width: 100%;
+    border-style: none;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+    
+    
+}
+input{
+    width: 400px;
+    height: 25px;
+    
+}
+input:hover{
+    border: 1.5px solid rgb(0, 216, 254);
+}
+.navbar2{
+    display: inline;
+    margin-top: 1%;
+}
+button{
+    border-style: none;
+    padding-left: 0%;
+    margin-top: 0%;
+}
+
+.b21{
+    width: 300px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-top: 10px;
+    display: inline-block;
+    border: 1.5px solid ;
+    border-radius: 5%;
+    border-color: red;
+}
